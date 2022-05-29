@@ -1,1 +1,1 @@
-# Landing-Page
+This project is the creation of a landing page. The purpose of the project is to build and deminstrate skills with CSS, primarily Flexbox.
