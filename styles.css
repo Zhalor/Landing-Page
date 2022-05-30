@@ -1,0 +1,47 @@
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero {
+    display: flex;
+    background-color: #1F2937;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.info-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 64px;
+    padding: 16px;
+}
+
+.box {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(0, 81, 255);
+    border-radius: 16px;;
+}
+
+.info {
+    max-width: 150px;
+}
+
+.info-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+}
